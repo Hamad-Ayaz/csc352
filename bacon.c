@@ -1,4 +1,5 @@
 // FileName: bacon.c
+// Author: Hamad Ayaz
 // Purpose: Kevin Bacon Score simulator
 
 #include <stdio.h>
